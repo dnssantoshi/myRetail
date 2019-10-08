@@ -31,7 +31,5 @@ Testing:
      }
      }`
 
-Database Configuration:
- 1. 
 Results:
-- Will demonstrate a runnable instance of the implementation on my computer.
+- Will demonstrate a runnable instance of the implementation locally.
