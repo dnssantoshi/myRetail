@@ -1,7 +1,7 @@
 Frameworks used:
 
 - SpringBoot REST - Application development
-- Spock - Integration testing
+- Spock - Interaction testing
 - Cassandra - Datastore
 - Postman - Functional testing
 - Maven - Build tool
